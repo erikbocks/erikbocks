@@ -1,7 +1,7 @@
 ### Opa, eu sou o Erik. 😉
 
 ### Sobre mim:
- Sou um jovem que gosta de tecnologia e da área de Desenvolvimento de Software, principalmente o Backend. No momento estou cursando Gestão da Tecnologia da Informação no IFSC-Florianópolis. Busco sempre estudar novas tecnologias ,e nesse momento, meu foco é Java juntamente com o framework Springboot.
+ Sou um jovem que gosta de tecnologia e da área de Desenvolvimento de Software, principalmente o Backend. No momento estou cursando Gestão da Tecnologia da Informação no IFSC-Florianópolis. Busco sempre estudar novas tecnologias, e nesse momento, meu foco é Java juntamente com o framework Springboot.
  	 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikbocks&layout=compact"/>
